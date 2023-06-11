@@ -1,2 +1,3 @@
-# pr_example
+# PR Example
+
 Just a PR example
